@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About Us - Mobile Chapter #33</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>About Us</h1>
+
+<p>
+The Montford Point Marines were the first African Americans to serve in the United States Marine Corps.
+Mobile Chapter #33 continues their legacy through community service, mentorship, and brotherhood.
+</p>
+
+<img src="images/sample.jpg" alt="Montford Point Marines">
+
+<a href="index.html">Back to Home</a>
+
+</body>
+</html>
